@@ -33,3 +33,5 @@ streamlit run app.py
 1. Upload dataset
 2. Automatic dataset analysis 
 3. Data quality scoring 4. Visualizations and insights
+
+https://ai-eda-assistant-hstxowrumghj8eqyx4b9pd.streamlit.app/
