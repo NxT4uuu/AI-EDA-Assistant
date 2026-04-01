@@ -34,5 +34,5 @@ streamlit run app.py
 2. Automatic dataset analysis 
 3. Data quality scoring 4. Visualizations and insights
 
-## 🚀 Try the App
+## Try the App
 **[Click here to launch the Streamlit demo](https://ai-eda-assistant-hstxowrumghj8eqyx4b9pd.streamlit.app/)**
